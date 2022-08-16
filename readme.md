@@ -4,7 +4,7 @@
 
 <br>
 
-![ProjetoFinal](https://github.com/FernandoAgostiniSilva/Desafio-RocketCoffee/blob/main/assets/projetoRevelacao.png)
+![ProjetoFinal](https://github.com/FernandoAgostiniSilva/maratonaExplorer1/blob/main/assets/projetoRevelacao.png)
 
 ## HTML
 - HyperText Markup Language
